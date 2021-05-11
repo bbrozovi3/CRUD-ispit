@@ -34,5 +34,8 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
 	}
 	?>
 	</table>
+	
+	<br><br><br><br>
+	Ovo je test predavača!
 </body>
 </html>
